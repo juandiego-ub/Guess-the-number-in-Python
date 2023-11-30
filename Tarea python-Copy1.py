@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 from datetime import date
@@ -175,21 +168,5 @@ def Menus():
 
     
 Menus()
-
-    #   
-
-
-    
-
-
-# In[1]:
-
-
-273
-
-
-# In[ ]:
-
-
 
 
