@@ -11,7 +11,7 @@ import random
 from getpass import getpass
 
 
-path = R"D:\Chuandi1\Documents Master\Clases\Python\Tarea\estadisticas.xlsx"
+path = R"D:\Chuandi1\Documents Master\Clases\Python\Tarea\estadisticas.xlsx" ## "put your url here and dont forget to create you excel file first"
 estadisicas = openpyxl.load_workbook(path)
 solitary_game = estadisicas["Hoja1"]
 group_game = estadisicas["Hoja2"]
